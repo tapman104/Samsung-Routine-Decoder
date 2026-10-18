@@ -1,0 +1,6 @@
+{
+  "name": "Samsung Routine Decoder",
+  "description": "High-integrity browser-based decoder and decryptor for Samsung Modes and Routines (.rtn) files with 64-bit integer preservation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
